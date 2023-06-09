@@ -5,6 +5,7 @@
 1. Crear un proyecto en Django llamada **miproyecto**
 
   1.1. Crear un super usuario
+  
   1.2. Probar el ingreso al admin
 
 2. Ingresar a la consola de Django
